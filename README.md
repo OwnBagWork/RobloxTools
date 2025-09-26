@@ -1,5 +1,7 @@
 ✔️New version of RobloxTools EU (3.0)✔️
+
 🟢The code was completely rewritten🟢
+
 🛠️Dev: BagWork, Codex, Flipper🛠️
 
 💎The GOLD Edition paid subscription will be available soon💎
